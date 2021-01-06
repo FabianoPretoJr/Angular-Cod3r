@@ -10,7 +10,7 @@ import { Product } from '../product.model';
 })
 export class ProductUpdateComponent implements OnInit {
 
-  product: Product | undefined;
+  product!: Product;
 
   constructor(
     private productService: ProductService, 

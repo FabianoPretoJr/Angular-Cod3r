@@ -10,7 +10,7 @@ import { Product } from '../product.model';
 })
 export class ProductDeleteComponent implements OnInit {
 
-  product: Product | undefined;
+  product!: Product;
   private id = this.route.snapshot.paramMap.get('id');
 
   constructor(
