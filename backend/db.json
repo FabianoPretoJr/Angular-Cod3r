@@ -1,0 +1,39 @@
+{
+  "produtcs": [
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro 2020",
+      "price": 12000
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+ Pro Ultra",
+      "price": "8050.86"
+    },
+    {
+      "name": "Teclado Motospeed ck83",
+      "price": "436",
+      "id": 5
+    },
+    {
+      "name": "Cadeira Maxracer Agreessive",
+      "price": "1400",
+      "id": 6
+    },
+    {
+      "name": "Xiaomi mi 8 lite",
+      "price": "1100",
+      "id": 7
+    },
+    {
+      "name": "Monitor Ultrawide 29\"",
+      "price": "1688.97",
+      "id": 8
+    },
+    {
+      "name": "Mousepad Star Wars Rogue One",
+      "price": "120",
+      "id": 9
+    }
+  ]
+}
